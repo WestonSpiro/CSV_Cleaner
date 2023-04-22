@@ -13,6 +13,8 @@ This program will remove any/all characters that are not used in financial trans
 
 Removed Characters: "!" "@" "#" "^" "&" "*" "(" ")" "[" "{" "~" "`" "'" ":" ";" "<" ">" "/" "" "_" "|" """ "?"
 
+Version 2 incorporates a GUI and alerts the user that the file has been cleaned
+
 Weston Spiro 2023
 
 All Rights Reserved
