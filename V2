@@ -37,7 +37,7 @@ browse_button.pack()
 quit_button = tk.Button(root, text = "Quit", command=root.destroy)
 quit_button.pack()
 
-label_text = "The CSV Cleaner 2023"
+label_text = "The CSV Cleaner \nWeston Spiro 2023"
 label = tk.Label(root, text=label_text)
 label.pack()
 
